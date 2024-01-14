@@ -11,3 +11,6 @@ git status
 git add .
 git commit -m 'Style,css modositva hátérszíne színátmenetes'
 git merge console
+git remote remove origin
+git remote add origin https://github.com/farkaskira/git-vizsga-farkaskira.git
+git push -u origin main
