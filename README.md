@@ -4,3 +4,6 @@ git add .
 git commit -m 'README.md és .gitignore fájl létrehozása gitignore fájl kész'
 git branch console 
 git checkout
+git status
+git add .
+git commit -m 'Sikeres oldal betöltése esetén kiirja, hogy Az oldal sikeresen betöltödött'
