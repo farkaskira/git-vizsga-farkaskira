@@ -7,3 +7,6 @@ git checkout
 git status
 git add .
 git commit -m 'Sikeres oldal betöltése esetén kiirja, hogy Az oldal sikeresen betöltödött'
+git status
+git add .
+git commit -m 'Stíle,css modositva hátérszíne színátmenetes'
